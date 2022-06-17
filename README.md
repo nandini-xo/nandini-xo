@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandini-xo
-- 👀 I’m interested in C,C++,Java,Docker,Jenkins,Kubernetes.
-- 🌱 I’m currently learning Devops tools like Docker Jenkins Kubernetes
+- 👀 I’m interested in C,C++,Java,DS , SQL and everything under the sun.
+- 🌱 I’m currently learning Devops tools like Docker Jenkins and linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :Reach me on linkedin -"https://www.linkedin.com/in/nandini-sharma-244ba2194/"
 
