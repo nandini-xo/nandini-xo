@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandini-xo
-- 👀 I’m interested in C,C++,Java,DS , SQL and everything under the sun.
-- 🌱 I’m currently learning Devops tools like Docker Jenkins and linux.
+- 👀 I’m interested in C,C++,Java,Python,DS,My-SQL, Apache Nifi Linux and everything under the sun.
+- 🌱 I’m currently learning Big Data and  Devops tools like Docker , Spark ,Pyspark , Hive and Kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :Reach me on linkedin -"https://www.linkedin.com/in/nandini-sharma-244ba2194/"
 
